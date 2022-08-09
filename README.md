@@ -14,27 +14,21 @@
 <br />
 
 <p align="center">
-  Backend Web Development | Project Management | Cloud Solutions | System Design
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?center=true&duration=2500&font=Bahnschrift&lines=Backend+Web+Development;DevOps;Project+Management;API+Design+and+Development)](https://git.io/typing-svg)
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java&logoColor=orange" />
-  <img src="https://img.shields.io/badge/Google Cloud-%230077B5?style=for-the-badge&logo=googlecloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,gcp,python&theme=light" />
+  </a>
 </p>
 
 <br />
 
 <p align="center">
-  Primary technology stack:
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" />
-  <img src="https://img.shields.io/badge/django%20rest-ff1709?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=django,postgres,redis,selenium,heroku,gradle&theme=light" />
+  </a>
 </p>
 
 <br />
