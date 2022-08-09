@@ -13,9 +13,7 @@
 
 <br />
 
-<p align="center">
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?center=true&duration=2500&font=Bahnschrift&lines=Backend+Web+Development;DevOps;Project+Management;API+Design+and+Development)](https://git.io/typing-svg)
-</p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&color=9D00FF&duration=2500&font=Bahnschrift&lines=Backend+Web+Development;DevOps;Project+Management;API+Design+and+Development)](https://git.io/typing-svg)
 
 <p align="center">
   <a href="https://skillicons.dev">
