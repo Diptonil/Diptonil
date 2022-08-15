@@ -25,7 +25,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=django,postgres,redis,selenium,heroku,gradle&theme=light" />
+    <img src="https://skillicons.dev/icons?i=django,postgres,redis,selenium,maven,gradle,heroku,docker&theme=light" />
   </a>
 </p>
 
