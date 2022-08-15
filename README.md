@@ -13,7 +13,7 @@
 
 <br />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&color=9D00FF&duration=2500&font=Bahnschrift&lines=Backend+Web+Development;DevOps;Project+Management;API+Design+and+Development)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9D00FF&duration=2500&font=Bahnschrift&lines=Backend+Development+|+Project+Management;DevOps+|+API+Design+and+Development)](https://git.io/typing-svg)
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -37,11 +37,12 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
   <img src="https://img.shields.io/badge/intel-core%20i5%208th-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" />
   <img src="https://img.shields.io/badge/RAM-8GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/AMD-ED1C24.svg?&style=for-the-badge&logo=amd&logoColor=white" />
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-  
+  <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+  <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white" />
 </p>
 
 <br />
