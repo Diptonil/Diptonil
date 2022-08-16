@@ -7,17 +7,11 @@
   <b><i>"Each mirror shows something different..."</i></b>
 </h6>
 
-<p align="center">
-  *
-</p>
-
-<br />
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9D00FF&duration=2500&font=Bahnschrift&lines=Backend+Development+|+Project+Management;DevOps+|+API+Design+and+Development)](https://git.io/typing-svg)
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,gcp,python&theme=light" />
+    <img src="https://skillicons.dev/icons?i=java,gcp,python" />
   </a>
 </p>
 
@@ -25,7 +19,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=django,postgres,redis,selenium,maven,gradle,heroku,docker&theme=light" />
+    <img src="https://skillicons.dev/icons?i=django,postgres,redis,selenium,maven,gradle,heroku,netlify,docker,jenkins" />
   </a>
 </p>
 
@@ -50,21 +44,6 @@
 <p align="center">
   <b>Just another newly helmed backend developer vastly interested (and intimidated!) by open source who tends to yell everytime a new technology walks in through the door while making everything backdated, watches an unhealthy amount of art-house films, reads classics once in a while and thinks that Vincent Adultman from Bojack Horseman is the most groundbreaking criticism on adulthood ever put on screen.</b>
   <br /><br />
-  P.S.: Honestly speaking, I'm not a big fan of JavaScript... (ducks down to dodge the oncoming assault of like 69% of the web developers...)
-</p>
-
-<br />
-
-<p>
-  Starting out with open source with some minor contributions:
-  <li>Apache Avro: Minor refactor of Python code.</li>
-</p>
-
-<p align="center">
-  *
-</p>
-
-<br />
 
 <p align="center">
   Social:
