@@ -19,7 +19,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=django,flask,postgres,redis,sqlite,selenium,html,css,sass,c,go,md,maven,nginx,aws,heroku,netlify,vercel,sentry,docker,jenkins" />
+    <img src="https://skillicons.dev/icons?i=django,flask,postgres,redis,sqlite,mysql,selenium,html,css,sass,c,md,maven,nginx,aws,postman,openstack,heroku,netlify,vercel,sentry,docker,jenkins" />
   </a>
 </p>
 
