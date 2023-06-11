@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,gcp,python" />
+    <img src="https://skillicons.dev/icons?i=django,gcp,python" />
   </a>
 </p>
 
@@ -19,7 +19,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=django,flask,postgres,redis,sqlite,mysql,selenium,html,css,sass,c,md,maven,nginx,aws,postman,openstack,heroku,netlify,vercel,sentry,docker,jenkins" />
+    <img src="https://skillicons.dev/icons?i=flask,flutter,postgres,redis,sqlite,mysql,java,go,dart,selenium,html,css,sass,c,firebase,md,maven,nginx,aws,postman,openstack,heroku,netlify,vercel,sentry,docker,jenkins,gitlab" />
   </a>
 </p>
 
@@ -53,6 +53,9 @@
   <a href="https://www.linkedin.com/in/diptonil-roy/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  <a href="https://diptonil.hashnode.dev/">
+    <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" />
+  </a>  
 </p>
 
 
