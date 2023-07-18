@@ -19,7 +19,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flask,flutter,postgres,redis,sqlite,mysql,java,go,dart,selenium,html,css,sass,c,firebase,md,maven,nginx,aws,postman,openstack,heroku,netlify,vercel,sentry,docker,jenkins,gitlab" />
+    <img src="https://skillicons.dev/icons?i=flask,flutter,postgres,redis,sqlite,mysql,java,go,dart,selenium,html,css,sass,svelte,tailwind,c,firebase,md,maven,nginx,aws,postman,rabbitmq,heroku,netlify,vercel,sentry,docker,jenkins,gitlab" />
   </a>
 </p>
 
