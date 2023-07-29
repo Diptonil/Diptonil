@@ -41,8 +41,18 @@
 
 <br />
 
+<p align='center'>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diptonil&theme=tokyonight" />
+</p>
+
+<p align='center'>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Diptonil&theme=tokyonight" />
+</p>
+
+<br />
+
 <p align="center">
-  <b>Just another newly helmed backend developer vastly interested (and intimidated!) by open source who tends to yell everytime a new technology walks in through the door while making everything backdated, watches an unhealthy amount of art-house films, reads classics once in a while and thinks that Vincent Adultman from Bojack Horseman is the most groundbreaking criticism on adulthood ever put on screen.</b>
+  <b>Just another newly helmed backend developer vastly interested (and intimidated!) by open source who watches an unhealthy amount of art-house films, reads classics once in a while and thinks that Vincent Adultman from Bojack Horseman is the most groundbreaking criticism on adulthood ever put on screen.</b>
   <br /><br />
 
 <p align="center">
@@ -57,5 +67,3 @@
     <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" />
   </a>  
 </p>
-
-
