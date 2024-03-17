@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=django,gcp,python" />
+    <img src="https://skillicons.dev/icons?i=django,gcp,python,linux,obsidian" />
   </a>
 </p>
 
@@ -19,24 +19,55 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flask,flutter,postgres,redis,sqlite,mysql,java,go,dart,selenium,html,css,sass,svelte,tailwind,c,firebase,md,maven,nginx,aws,postman,rabbitmq,heroku,netlify,vercel,sentry,docker,jenkins,gitlab" />
+    <img src="https://skillicons.dev/icons?i=flask,fastapi,express,nestjs,postman,flutter,postgres,redis,sqlite,mysql,mongodb,supabase,firebase,netlify,vercel,java,go,dart,c,selenium,html,css,sass,tailwind,md,maven,nginx,aws,heroku,rabbitmq,sentry,docker,jenkins,gitlab" />
   </a>
 </p>
 
 <br />
 
+```py
+from engineering.positions import APIDeveloper, BackendEngineer, DevOpsEngineer, CTO
+
+
+class SoftwareEngineer(APIDeveloper, BackendEngineer, DevOpsEngineer):
+    """Writing software that drives and scales businesses and is simplified, efficient and maintainable."""
+
+    def __init__(self):
+        self.name = "Diptonil Roy"
+        self.email = "diptonil.roy.work@gmail.com"
+        self.team = "Business Systems & Data"
+        self.company = "Confluent"
+        self._hobbies = ["Filmmaking", "Writing", "Mixology", "Homebrewing"]
+
+    def __str__(self):
+        return f"{self.name} from {self.team} at {self.company}."
+
+    @property
+    def past_experiences(self):
+        """Only the ones in which I learnt the most."""
+
+        return {
+            "Everlytics": DevOpsEngineer("Development and trigger configuration of test server's data pipeline."),
+            "TuitionHai": CTO("Complete engineering of EdTech platform backend & cloud maintenance."),
+            "Webknot": BackendEngineer("Engineering SSE and data streaming.")
+        }
+```
+
+<br />
+
 <p align="center">
-  Workspace:
+  Workspaces (I use multiple environments):
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+  <img src="https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" />
   <img src="https://img.shields.io/badge/intel-core%20i5%208th-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" />
   <img src="https://img.shields.io/badge/RAM-8GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/AMD-ED1C24.svg?&style=for-the-badge&logo=amd&logoColor=white" />
   <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-  <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white" />
+  <img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white" />
 </p>
 
 <br />
