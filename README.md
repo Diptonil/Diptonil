@@ -30,12 +30,12 @@ from engineering.positions import APIDeveloper, BackendEngineer, DevOpsEngineer,
 
 
 class SoftwareEngineer(APIDeveloper, BackendEngineer, DevOpsEngineer):
-    """Writing software that drives and scales businesses and is simplified, efficient and maintainable."""
+    """Writing efficient and maintainable software to drive and scale businesses."""
 
     def __init__(self):
         self.name = "Diptonil Roy"
         self.email = "diptonil.roy.work@gmail.com"
-        self.team = "Business Systems & Data"
+        self.team = "Business Technology & Data"
         self.company = "Confluent"
         self._hobbies = ["Filmmaking", "Writing", "Mixology", "Homebrewing"]
 
@@ -87,7 +87,7 @@ class SoftwareEngineer(APIDeveloper, BackendEngineer, DevOpsEngineer):
   <br /><br />
 
 <p align="center">
-  Social:
+  Socials:
 </p>
 
 <p align="center">
