@@ -7,29 +7,21 @@
   <b><i>"Each mirror shows something different..."</i></b>
 </h6>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9D00FF&duration=2500&font=Bahnschrift&lines=Backend+Development+|+Project+Management;DevOps+|+API+Design+and+Development)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9D00FF&duration=1000&font=Bahnschrift&lines=Web;API)](https://git.io/typing-svg)
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=django,gcp,python,linux,obsidian" />
-  </a>
-</p>
-
-<br />
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flask,fastapi,express,nestjs,postman,flutter,postgres,redis,sqlite,mysql,mongodb,supabase,firebase,netlify,vercel,java,go,dart,c,selenium,html,css,sass,tailwind,md,maven,nginx,aws,heroku,rabbitmq,sentry,docker,jenkins,gitlab" />
+    <img src="https://skillicons.dev/icons?i=python,java,go,gcp,linux" />
   </a>
 </p>
 
 <br />
 
 ```py
-from engineering.positions import APIDeveloper, BackendEngineer, DevOpsEngineer, CTO
+from engineering.positions import BackendEngineer, DevOpsEngineer
 
 
-class SoftwareEngineer(APIDeveloper, BackendEngineer, DevOpsEngineer):
+class SoftwareEngineer(BackendEngineer, DevOpsEngineer):
     """Writing efficient and maintainable software to drive and scale businesses."""
 
     def __init__(self):
@@ -37,18 +29,14 @@ class SoftwareEngineer(APIDeveloper, BackendEngineer, DevOpsEngineer):
         self.email = "diptonil.roy.work@gmail.com"
         self.team = "Business Technology & Data"
         self.company = "Confluent"
-        self._hobbies = ["Filmmaking", "Writing", "Mixology", "Homebrewing"]
-
-    def __str__(self):
-        return f"{self.name} from {self.team} at {self.company}."
+        self._hobbies = ["Perfumery", "Filmmaking", "Writing", "Mixology", "Homebrewing"]
 
     @property
     def past_experiences(self):
-        """Only the ones in which I learnt the most."""
 
         return {
             "Everlytics": DevOpsEngineer("Development and trigger configuration of test server's data pipeline."),
-            "TuitionHai": CTO("Complete engineering of EdTech platform backend & cloud maintenance."),
+            "TuitionHai": BackendEngineer("Complete engineering of EdTech platform backend & cloud maintenance."),
             "Webknot": BackendEngineer("Engineering SSE and data streaming.")
         }
 ```
@@ -56,18 +44,12 @@ class SoftwareEngineer(APIDeveloper, BackendEngineer, DevOpsEngineer):
 <br />
 
 <p align="center">
-  Workspaces (I use multiple environments):
+  Environments:
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
-  <img src="https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" />
-  <img src="https://img.shields.io/badge/intel-core%20i5%208th-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" />
-  <img src="https://img.shields.io/badge/RAM-8GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/AMD-ED1C24.svg?&style=for-the-badge&logo=amd&logoColor=white" />
-  <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-  <img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white" />
 </p>
 
 <br />
@@ -83,10 +65,6 @@ class SoftwareEngineer(APIDeveloper, BackendEngineer, DevOpsEngineer):
 <br />
 
 <p align="center">
-  <b>Just another newly helmed backend developer vastly interested (and intimidated!) by open source who watches an unhealthy amount of art-house films, reads classics once in a while and thinks that Vincent Adultman from Bojack Horseman is the most groundbreaking criticism on adulthood ever put on screen.</b>
-  <br /><br />
-
-<p align="center">
   Socials:
 </p>
 
@@ -98,3 +76,19 @@ class SoftwareEngineer(APIDeveloper, BackendEngineer, DevOpsEngineer):
     <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" />
   </a>  
 </p>
+
+<br />
+
+<p align="center">
+  <b>Hi! Still here? Hope you have a lovely day. Lately I've been trying to solve John Crickett's coding challenges (and I really think that these have been making a better engineer out of me!):</b>
+  <br />
+  <ul>
+    <li><a href="https://github.com/Diptonil/ccwc">wc (Linux Command)</a>: Easy work with the Python CLI module.</li>
+    <li><a href="https://github.com/Diptonil/cc-head">head (Linux Command)</a>: Learning how to work with Go CLIs.</li>
+    <li><a href="https://github.com/Diptonil/cc-load-balancer">Load Balancer</a>: Python-based application supporting periodic health-checks and round-robin traffic routing.</li>
+    <li><a href="https://github.com/Diptonil/cc-redis">Lite Redis</a>: Redis with Go (and some of that good concurrency I've been hearing about!).</li>
+    <li><a href="https://github.com/Diptonil/cloud-notes">Notes (Google Keep)</a>: Basic app to try out the Flutter framework.</li>    
+  </ul>
+  <br />
+
+
